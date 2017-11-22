@@ -7,4 +7,4 @@
 - view 扫描预览视图ViewfinderView
 
 # 实现的效果如下：
-![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/NA%7BKJ37SVE3(8QRE9JXQITD.png) "github"）
+![github](http://github.com/unicorn.png "github")
