@@ -1,4 +1,6 @@
-### 这种UI效果是市场上的app不符，所以需要自定义扫码页面，如下图所示：![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/NA%7BKJ37SVE3(8QRE9JXQITD.png "github")
+### 这种UI效果是市场上的app不符，所以需要自定义扫码页面，如下图所示：
+![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/main.jpg "github")
+![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/scan.png "github")
 # ZXing_Demo 
 - app 扫描Activity
 - camera 摄像头相关
