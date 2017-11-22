@@ -7,4 +7,4 @@
 - view 扫描预览视图ViewfinderView
 
 # 实现的效果如下：
-![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/NA%7BKJ37SVE3(8QRE9JXQITD.png "github")
+### 就目前而言，扫描的功能已经可以使用了，但是这种UI效果是市场上的app不符，所以需要自定义扫码页面，而理想实现效果如下图所示：![github](https://raw.githubusercontent.com/2017HHL/ZXing_Demo/master/NA%7BKJ37SVE3(8QRE9JXQITD.png "github")
